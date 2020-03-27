@@ -1,8 +1,8 @@
 jQuery(document).ready(function() {
 	var QRBox	=	$('#QRBox');
 	var MainBox	=	$('#MainBox');
-	var AliPayQR	=	'images/AliPayQR.png';
-	var WeChanQR	=	'images/swechatpay.png';
+	var AliPayQR	=	'https://cdn.jsdelivr.net/gh/mrhuanhao/cdn/payme/alipay.png';
+	var WeChanQR	=	'https://cdn.jsdelivr.net/gh/mrhuanhao/cdn/payme/swechatpay.png';
 
 	
 
